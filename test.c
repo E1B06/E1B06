@@ -4,6 +4,6 @@
 int main(void) 
 {
 	
-	printf("fuck you");
+	printf("Hello World");
 	
 }
